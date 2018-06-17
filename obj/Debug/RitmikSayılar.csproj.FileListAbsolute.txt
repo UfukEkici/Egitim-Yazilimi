@@ -1,0 +1,66 @@
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.exe.config
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.exe
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.pdb
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form1.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Properties.Resources.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.exe
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.pdb
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form2.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form3.resources
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form1.resources
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form3.resources
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form4.resources
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Properties.Resources.resources
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.exe
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.pdb
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.exe.config
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.exe
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.pdb
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form5.resources
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form7.resources
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form9.resources
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form10.resources
+C:\Users\ASUS\Desktop\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form12.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form1.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form10.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form12.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form3.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form4.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form5.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form7.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form8.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form9.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Properties.Resources.resources
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.exe
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.pdb
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.exe.config
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.exe
+C:\Users\User\Desktop\Özel Eğitim Yazılımı\rtmkyeni\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.pdb
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.exe.config
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.exe
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\bin\Debug\RitmikSayılar.pdb
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csprojResolveAssemblyReference.cache
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form1.resources
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form10.resources
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form12.resources
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form3.resources
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form4.resources
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form5.resources
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form7.resources
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form8.resources
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form9.resources
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Properties.Resources.resources
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csproj.GenerateResource.Cache
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.csproj.CoreCompileInputs.cache
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.exe
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.pdb
+G:\program\rtmkyeni\RitmikSayılar\RitmikSayılar\obj\Debug\RitmikSayılar.Form6.resources
